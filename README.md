@@ -2,7 +2,7 @@ Running Google Assistant as a Systemd unit
 
 Ensure you have Google Assistant setup using [this guide](https://www.xda-developers.com/how-to-get-google-assistant-on-your-windows-mac-or-linux-machine/)
 
-Replace ~/.local/lib/python3.5/site-packages/googlesamples/assistant/__main__.py with mine. 
+Replace ~/.local/lib/python3.5/site-packages/googlesamples/assistant/\__main__\.py with mine. 
 
 I have removed the need to press the "Enter" key, which makes it "Always listening". 
 
